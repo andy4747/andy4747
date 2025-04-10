@@ -12,12 +12,12 @@ I'm a passionate Software Engineer who loves building innovative solutions and c
 ## 💻 Tech Stack
 
 ```text
-Languages:        Go, JavaScript, TypeScript, Python, Java, C
+Languages:        Go, JavaScript, TypeScript, Python
 Frontend:         JS/TS, React.js, Next.js, HTML5, CSS3, Tailwind CSS
 Backend:          Go, Node.js
 Databases:        PostgreSQL, Redis
 Cloud & DevOps:   AWS, Docker, CI/CD, Terraform
-Tools:            Git, Vim, Postman, Linux, Tmux
+Tools:            Git, Vim, Postman, Linux, Tmux, Bash
 ```
 
 ## 🌟 Featured Projects
@@ -26,12 +26,6 @@ Tools:            Git, Vim, Postman, Linux, Tmux
 - **[codeangel.tech]** - My portfolio site.
 - **[Pet Connect]** - A platform to help pets find loving homes and report lost pets.
 
-## 🎯 Current Focus
-
-- 🔭 I'm currently working on improving system design skills
-- 🌱 Learning about distributed systems and microservices
-- 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about backend development and system architecture
 
 ## 📫 Connect With Me
 
