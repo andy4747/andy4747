@@ -18,9 +18,10 @@ Tools:            Git, Vim, Postman, Linux, Tmux, Bash
 
 ## 🌟 Featured Projects
 
-- **[Pong Mania]** - 👉 Read Here
-- **[codeangel.tech]** - 👉 Read Here
-- **[Pet Connect]** - 👉 Read Here
+- **PDF Repo** - 👉 Read Here
+- **Pong Mania** - 👉 Read Here
+- **codeangel.tech** - 👉 Read Here
+- **Pet Connect** - 👉 Read Here
 
 
 ## 📫 Connect With Me
