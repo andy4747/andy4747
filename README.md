@@ -36,8 +36,6 @@ Tools:            Git, Vim, Postman, Linux, Tmux, Bash
   </a>
 </p>
 
----
-
 <div align="center">
   <i>Happy Coding! 🚀</i>
 </div>
