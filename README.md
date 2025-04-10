@@ -1,8 +1,5 @@
 <div align="center">
   <h1>👋 Hi, I'm Angel Dhakal</h1>
-  <p>
-    <img src="https://img.shields.io/badge/-Software%20Engineer-333333?style=flat&logo=computer" />
-  </p>
 </div>
 
 ## 💻 My Stack
