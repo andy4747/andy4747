@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Angel Dhakal</h1>
+  <h3>👋 Hi, I'm Angel Dhakal</h3>
 </div>
 
 ## 💻 My Stack
