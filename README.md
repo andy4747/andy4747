@@ -18,9 +18,9 @@ Tools:            Git, Vim, Postman, Linux, Tmux, Bash
 
 ## 🌟 Featured Projects
 
-- **[Pong Mania]** - Experience the nostalgia of the original pong arcade game! Challenge your friends in this classic two-player game.
-- **[codeangel.tech]** - My portfolio site.
-- **[Pet Connect]** - A platform to help pets find loving homes and report lost pets.
+- **[Pong Mania]** - 👉 Read Here
+- **[codeangel.tech]** - 👉 Read Here
+- **[Pet Connect]** - 👉 Read Here
 
 
 ## 📫 Connect With Me
