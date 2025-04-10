@@ -5,10 +5,6 @@
   </p>
 </div>
 
-## 🚀 About Me
-
-I'm a passionate Software Engineer who loves building innovative solutions and contributing to open-source projects. I believe in writing clean, maintainable code and continuously learning new technologies.
-
 ## 💻 Tech Stack
 
 ```text
