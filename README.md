@@ -5,7 +5,7 @@
   </p>
 </div>
 
-## 💻 Tech Stack
+## 💻 My Stack
 
 ```text
 Languages:        Go, JavaScript, TypeScript, Python
