@@ -18,10 +18,7 @@ Tools:            Git, Vim, Postman, Linux, Tmux, Bash
 
 ## 🌟 Featured Projects
 
-- **PDF Repo** - 👉 Read Here
-- **Pong Mania** - 👉 Read Here
-- **codeangel.tech** - 👉 Read Here
-- **Pet Connect** - 👉 Read Here
+<table> <tr> <td><strong>📚 PDF Repo</strong><br> <sub>A minimalist platform to organize and share curated PDF notes.<br> <strong>Tech:</strong> Go, PostgreSQL, Tailwind, Docker, Redis<br> <a href="#">🔗 Read More »</a></sub> </td> <td><strong>🕹️ Pong Mania</strong><br> <sub>Real-time multiplayer Pong game with server-side logic.<br> <strong>Tech:</strong> Go, Echo, htmx, Templ, WebSockets<br> <a href="#">🔗 Read More »</a></sub> </td> </tr> <tr> <td><strong>🌐 codeangel.tech</strong><br> <sub>My personal website & dev blog with project showcases.<br> <strong>Tech:</strong> Next.js, Tailwind CSS, Vercel<br> <a href="https://codeangel.tech/">🔗 Visit Website »</a></sub> </td> <td><strong>🐶 Pet Connect</strong><br> <sub>Community platform to help reunite lost pets with their owners.<br> <strong>Tech:</strong> Node.js, PostgreSQL, AWS, React<br> <a href="#">🔗 Read More »</a></sub> </td> </tr> </table>
 
 
 ## 📫 Connect With Me
