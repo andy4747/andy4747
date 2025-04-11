@@ -17,7 +17,7 @@ Tools:            Git, Vim, Postman, Linux, Tmux, Bash
 
 | 📚 PDF Repo | 🕹️ Pong Mania | 🌐 codeangel.tech | 🐶 Pet Connect |
 |------------|---------------|------------------|----------------|
-| 👉 [Click Here](https://github.com/angeldhakal/pdf-repo) | 👉 [Click Here](https://github.com/angeldhakal/pong-mania) | 👉 [Click Here](https://codeangel.tech) | 👉 [Click Here](https://github.com/angeldhakal/pet-connect) |
+| 👉 [Click Here](https://github.com/andy4747/pdf-repo) | 👉 [Click Here](https://github.com/andy4747/pong-mania) | 👉 [Click Here](https://codeangel.tech) | 👉 [Click Here](https://github.com/andy4747/pet-connect) |
 
 ## 📫 Connect With Me
 
