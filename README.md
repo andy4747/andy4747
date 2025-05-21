@@ -8,8 +8,8 @@
   
   # 👇 FIND ME AT MY NEW PROFILE 👇
   
-  <a href="https://github.com/NEW_USERNAME_HERE">
-    <img src="https://img.shields.io/badge/GitHub-@NEW_USERNAME_HERE-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1F71&color=FFA500" alt="New GitHub Profile" width="60%"/>
+  <a href="https://github.com/angel-dx">
+    <img src="https://img.shields.io/badge/GitHub-@angel-dx-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1F71&color=FFA500" alt="New GitHub Profile" width="60%"/>
   </a>
 
   <br>
@@ -28,9 +28,6 @@
   <p>I decided to change my username to better reflect my professional identity and make it easier to connect my online presence across platforms.</p>
   
   <br>
-  
-  <h2>What happens to the old repositories?</h2>
-  <p>GitHub automatically redirects traffic from old repositories to the new ones. However, it's best to update your bookmarks and links to the new profile.</p>
 </div>
 
 ---
@@ -38,18 +35,18 @@
 <br>
 
 <div align="center">
-  <h3>📅 USERNAME CHANGED ON: [MONTH DAY, YEAR]</h3>
+  <h3>📅 USERNAME CHANGED ON: [May 21, 2025]</h3>
   
   <br>
   
   <table>
     <tr>
       <td>⚠️ Old Username</td>
-      <td><s>@OLD_USERNAME_HERE</s></td>
+      <td><s>@andy4747</s></td>
     </tr>
     <tr>
       <td>✅ New Username</td>
-      <td><b>@NEW_USERNAME_HERE</b></td>
+      <td><b>@angel-dx</b></td>
     </tr>
   </table>
 </div>
@@ -57,5 +54,5 @@
 <br>
 
 <div align="center">
-  <h2>THANK YOU FOR UPDATING YOUR REFERENCES!</h2>
+  <h2>THANK YOU!</h2>
 </div>
