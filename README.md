@@ -1,6 +1,8 @@
 <div align="center">
-    <img src="https://img.shields.io/badge/USERNAME-CANGED-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1F71&color=FFA500" alt="New GitHub Profile" width="60%"/>
-  
+      <a href="https://github.com/angel-dx">
+        <img src="https://img.shields.io/badge/USERNAME-CANGED-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1F71&color=FFA500" alt="New GitHub Profile" width="60%"/>
+    </a>
+
   <br>
   <br>
   
