@@ -1,7 +1,7 @@
 # ⚠️ USERNAME CHANGED ⚠️
 
 <div align="center">
-  <img src="https://github.com/DenverCoder1/readme-typing-svg?font=Roboto+Slab&size=35&duration=3500&color=FFA500&center=true&width=500&lines=I've+moved+to+a+new+account!" alt="Username Changed Banner"/>
+    <img src="https://img.shields.io/badge/GitHub-@NEW_USERNAME_HERE-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1F71&color=FFA500" alt="New GitHub Profile" width="60%"/>
   
   <br>
   <br>
@@ -9,7 +9,7 @@
   # 👇 FIND ME AT MY NEW PROFILE 👇
   
   <a href="https://github.com/angel-dx">
-    <img src="https://img.shields.io/badge/GitHub-@angel-dx-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1F71&color=FFA500" alt="New GitHub Profile" width="60%"/>
+    <img src="https://img.shields.io/badge/GitHub-@NEW_USERNAME_HERE-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1F71&color=FFA500" alt="New GitHub Profile" width="60%"/>
   </a>
 
   <br>
